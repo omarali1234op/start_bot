@@ -18,10 +18,10 @@ START_IMG = getenv("START_IMG", "https://telegra.ph/file/0f8437481d1c90561e446.j
 
 SESSION = getenv("AgBPT79HFELGtvQMntGa9WOavnBZhWJBIi1Ip3Ab0hNgGIldkeoX3Glowp6l0FR3_1K9OQHG5CMPS-S-A0ts07kpmZCgH1Xj5X-oR00VPtTeAEr2PEeYZHqdCuQZdtsdCEOc5M14ZBG2ZMdbw0uDvYnU_xNP1Vetf1AONCL7PO7F29XS7QHsmpu_wT4hAGFtEO-ce6cohrPXB3WFZXISnZcgXRKkhdAdoWuTB-AzGYkyHLgZK9vG3yHPIZS_UefZBBhB10mmCL2kEpaBTRwdgcX2PLRWsmR-6okdAjLyx9-aO6m3J8vhrNHdPZgjQOZ1tBn5fam9QhpJ1YyzfbOLC7qCAAAAATW-qeYA", None)
 
-SUPPORT_CHAT = getenv("source_ali", "https://t.me/zrrrrrz")
-SUPPORT_CHANNEL = getenv("ALI_BOT", "https://t.me/lA_l_Al")
+SUPPORT_CHAT = getenv("SUPPORT_ALI", "https://t.me/boboboiol")
+SUPPORT_CHANNEL = getenv("source_ali", "https://t.me/zrrrrrz")
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1001955431592").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5196655078").split()))
 
 
 FAILED = "https://telegra.ph/file/0f8437481d1c90561e446.jpg"
