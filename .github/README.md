@@ -1,7 +1,7 @@
 ![ALI-@l_b10](https://telegra.ph/file/0f8437481d1c90561e446.jpg)
-تنصيب بوتات القرآن الكريم
+سورس القران الكريم هيروكو ♡
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+SOURCE-SPIDER+AN+ADVANCE+BOT)](https://github.com/FM8Y/Super-Music)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+SOURCE-VEGEA+AN+ADVANCE+BOT)](https://github.com/FM8Y/Super-Music)
 
 <p align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
@@ -22,7 +22,7 @@
 
 
 
-─「 [SOURCE SPIDER](https://t.me/EE_20) 」─ 
+─「 [SOURCE VEGA](https://t.me/STARRVEGA) 」─ 
 
 
   الــمــلــف بــحــقــوق ســورس [ســبــايــدر](https://t.me/EE_20)
